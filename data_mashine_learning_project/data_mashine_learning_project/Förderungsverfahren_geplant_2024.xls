@@ -1,0 +1,601 @@
+,AGS,Kreis/Landkreis,wieOft_Landkreis
+1,16063,Landkreis Wartburgkreis,2
+2,16065,Landkreis Kyffhäuserkreis,2
+3,16066,Landkreis Schmalkalden-Meiningen,6
+4,16066,Landkreis Schmalkalden-Meiningen,6
+5,16072,Landkreis Sonneberg,2
+6,16073,Landkreis Saalfeld-Rudolstadt,6
+7,16075,Landkreis Saale-Orla-Kreis,4
+8,16074,Landkreis Saale-Holzland-Kreis,4
+9,16070,Landkreis Ilm-Kreis,3
+10,16073,Landkreis Saalfeld-Rudolstadt,6
+11,,"Landkreis Ilm-Kreis, Landkreis Gotha",1
+12,16069,Landkreis Hildburghausen,4
+13,16064,Landkreis Unstrut-Hainich-Kreis,1
+14,,"Landkreis Wartburgkreis, Landkreis Gotha",1
+15,16067,Landkreis Gotha,1
+16,,"Landkreis Saalfeld-Rudolstadt, Landkreis Ilm-Kreis",2
+17,16073,Landkreis Saalfeld-Rudolstadt,6
+18,,"Landkreis Saalfeld-Rudolstadt, Landkreis Ilm-Kreis, Landkreis Weimarer Land",1
+19,16066,Landkreis Schmalkalden-Meiningen,6
+20,16075,Landkreis Saale-Orla-Kreis,4
+21,16063,Landkreis Wartburgkreis,2
+22,1061,Kreis Steinburg,1
+23,,"Landkreis Wittenberg, Landkreis Teltow-Fläming",1
+24,15082,Landkreis Anhalt-Bitterfeld,2
+25,,"Landkreis Anhalt-Bitterfeld, Landkreis Salzlandkreis",1
+26,15082,Landkreis Anhalt-Bitterfeld,2
+27,15091,Landkreis Wittenberg,3
+28,,Landkreis Salzwedel,3
+29,,"Landkreis Harz, Landkreis Mansfeld-Südharz",2
+30,15090,Landkreis Stendal,2
+31,15085,Landkreis Harz,10
+32,15085,Landkreis Harz,10
+33,15091,Landkreis Wittenberg,3
+34,14625,Landkreis Bautzen,3
+35,14625,Landkreis Bautzen,3
+36,14625,Landkreis Bautzen,3
+37,14628,Landkreis Sächsische Schweiz-Osterzgebirge,8
+38,14522,Landkreis Mittelsachsen,2
+39,14521,Landkreis Erzgebirgskreis,10
+40,14627,Landkreis Meißen,1
+41,14521,Landkreis Erzgebirgskreis,10
+42,14521,Landkreis Erzgebirgskreis,10
+43,14523,Landkreis Vogtlandkreis,5
+44,14523,Landkreis Vogtlandkreis,5
+45,,"Kreis Rhein-Sieg-Kreis, Landkreis Neuwied",1
+46,7132,Landkreis Altenkirchen (Westerwald),2
+47,7336,Landkreis Kusel,2
+48,,"Landkreis Kaiserslautern, Landkreis Donnersbergkreis",1
+49,,"Landkreis Kaiserslautern, Landkreis Südwestpfalz",1
+50,7340,Landkreis Südwestpfalz,6
+51,7340,Landkreis Südwestpfalz,6
+52,7131,Landkreis Ahrweiler,2
+53,7138,Landkreis Neuwied,1
+54,7137,Landkreis Mayen-Koblenz,3
+55,,"Landkreis Cochem-Zell, Landkreis Rhein-Hunsrück-Kreis",1
+56,7231,Landkreis Bernkastel-Wittlich,4
+57,,"Landkreis Bernkastel-Wittlich, Landkreis Trier-Saarburg",1
+58,7134,Landkreis Birkenfeld,1
+59,7336,Landkreis Kusel,2
+60,7131,Landkreis Ahrweiler,2
+61,7233,Landkreis Vulkaneifel,2
+62,7232,Landkreis Eifelkreis Bitburg-Prüm,5
+63,7231,Landkreis Bernkastel-Wittlich,4
+64,7232,Landkreis Eifelkreis Bitburg-Prüm,5
+65,,"Landkreis Trier-Saarburg, Kreisfreie Stadt Trier",1
+66,7235,Landkreis Trier-Saarburg,4
+67,7235,Landkreis Trier-Saarburg,4
+68,7333,Landkreis Donnersbergkreis,1
+69,,"Landkreis Südliche Weinstraße, Landkreis Südwestpfalz",1
+70,7337,Landkreis Südliche Weinstraße,1
+71,7316,Kreisfreie Stadt Neustadt an der Weinstraße,1
+72,5762,Kreis Höxter,3
+73,,"Kreis Lippe, Kreis Gütersloh, Kreis Paderborn",1
+74,5958,Kreis Hochsauerlandkreis,8
+75,,"Kreis Hochsauerlandkreis, Kreis Siegen-Wittgenstein",1
+76,5958,Kreis Hochsauerlandkreis,8
+77,5958,Kreis Hochsauerlandkreis,8
+78,5970,Kreis Siegen-Wittgenstein,5
+79,5970,Kreis Siegen-Wittgenstein,5
+80,5958,Kreis Hochsauerlandkreis,8
+81,,"Kreis Hochsauerlandkreis, Kreis Olpe",1
+82,5966,Kreis Olpe,1
+83,5970,Kreis Siegen-Wittgenstein,5
+84,5962,Kreis Märkischer Kreis,3
+85,5962,Kreis Märkischer Kreis,3
+86,5962,Kreis Märkischer Kreis,3
+87,,"Kreis Recklinghausen, Kreis Borken",1
+88,5154,Kreis Kleve,2
+89,5366,Kreis Euskirchen,4
+90,5366,Kreis Euskirchen,4
+91,3256,Landkreis Nienburg (Weser),1
+92,,"Landkreis Hameln-Pyrmont, Landkreis Schaumburg",2
+93,3159,Landkreis Göttingen,6
+94,3153,Landkreis Goslar,7
+95,3153,Landkreis Goslar,7
+96,3354,Landkreis Lüchow-Dannenberg,1
+97,,"Landkreis Helmstedt, Landkreis Wolfenbüttel",2
+98,3254,Landkreis Hildesheim,4
+99,3255,Landkreis Holzminden,3
+100,3351,Landkreis Celle,1
+101,3153,Landkreis Goslar,7
+102,3155,Landkreis Northeim,8
+103,3155,Landkreis Northeim,8
+104,3159,Landkreis Göttingen,6
+105,3255,Landkreis Holzminden,3
+106,3155,Landkreis Northeim,8
+107,3252,Landkreis Hameln-Pyrmont,3
+108,3252,Landkreis Hameln-Pyrmont,3
+109,3153,Landkreis Goslar,7
+110,3153,Landkreis Goslar,7
+111,3159,Landkreis Göttingen,6
+112,,"Landkreis Göttingen, Landkreis Goslar",2
+113,13073,Landkreis Vorpommern-Rügen,4
+114,13071,Landkreis Mecklenburgische Seenplatte,12
+115,13071,Landkreis Mecklenburgische Seenplatte,12
+116,13076,Landkreis Ludwigslust-Parchim,6
+117,13076,Landkreis Ludwigslust-Parchim,6
+118,13074,Landkreis Nordwestmecklenburg,2
+119,13076,Landkreis Ludwigslust-Parchim,6
+120,13076,Landkreis Ludwigslust-Parchim,6
+121,,"Landkreis Mecklenburgische Seenplatte, Landkreis Vorpommern-Greifswald",1
+122,13071,Landkreis Mecklenburgische Seenplatte,12
+123,13071,Landkreis Mecklenburgische Seenplatte,12
+124,13071,Landkreis Mecklenburgische Seenplatte,12
+125,,"Landkreis Werra-Meißner-Kreis, Landkreis Wartburgkreis",1
+126,,"Landkreis Kassel, Kreis Höxter",1
+127,6632,Landkreis Hersfeld-Rotenburg,6
+128,,"Landkreis Marburg-Biedenkopf, Landkreis Gießen",1
+129,6635,Landkreis Waldeck-Frankenberg,6
+130,6435,Landkreis Main-Kinzig-Kreis,5
+131,,"Landkreis Marburg-Biedenkopf, Landkreis Waldeck-Frankenberg",2
+132,6534,Landkreis Marburg-Biedenkopf,2
+133,6532,Landkreis Lahn-Dill-Kreis,6
+134,6633,Landkreis Kassel,8
+135,6633,Landkreis Kassel,8
+136,6633,Landkreis Kassel,8
+137,6635,Landkreis Waldeck-Frankenberg,6
+138,6435,Landkreis Main-Kinzig-Kreis,5
+139,6635,Landkreis Waldeck-Frankenberg,6
+140,6437,Landkreis Odenwaldkreis,5
+141,6636,Landkreis Werra-Meißner-Kreis,4
+142,6632,Landkreis Hersfeld-Rotenburg,6
+143,6439,Landkreis Rheingau-Taunus-Kreis,4
+144,6439,Landkreis Rheingau-Taunus-Kreis,4
+145,6633,Landkreis Kassel,8
+146,6633,Landkreis Kassel,8
+147,,"Landkreis Werra-Meißner-Kreis, Landkreis Schwalm-Eder-Kreis",1
+148,6634,Landkreis Schwalm-Eder-Kreis,3
+149,6632,Landkreis Hersfeld-Rotenburg,6
+150,6632,Landkreis Hersfeld-Rotenburg,6
+151,6633,Landkreis Kassel,8
+152,,"Landkreis Kassel, Landkreis Waldeck-Frankenberg",2
+153,6635,Landkreis Waldeck-Frankenberg,6
+154,,"Landkreis Kassel, Landkreis Waldeck-Frankenberg",2
+155,6635,Landkreis Waldeck-Frankenberg,6
+156,12064,Landkreis Märkisch-Oderland,4
+157,12069,Landkreis Potsdam-Mittelmark,3
+158,12065,Landkreis Oberhavel,2
+159,12065,Landkreis Oberhavel,2
+160,12064,Landkreis Märkisch-Oderland,4
+161,12062,Landkreis Elbe-Elster,1
+162,12066,Landkreis Oberspreewald-Lausitz,1
+163,,"Landkreis Oberspreewald-Lausitz, Landkreis Elbe-Elster",1
+164,12068,Landkreis Ostprignitz-Ruppin,1
+165,,"Landkreis Potsdam-Mittelmark, Landkreis Havelland",1
+166,12069,Landkreis Potsdam-Mittelmark,3
+167,,"Landkreis Hildburghausen, Landkreis Coburg",1
+168,9478,Landkreis Lichtenfels,3
+169,,"Landkreis Weilheim-Schongau, Landkreis Landsberg am Lech",2
+170,,"Landkreis Weilheim-Schongau, Landkreis Landsberg am Lech",2
+171,9190,Landkreis Weilheim-Schongau,1
+172,9180,Landkreis Garmisch-Partenkirchen,1
+173,,"Landkreis Bad Tölz-Wolfratshausen, Landkreis Miesbach",2
+174,9182,Landkreis Miesbach,4
+175,9182,Landkreis Miesbach,4
+176,,"Landkreis Bad Tölz-Wolfratshausen, Landkreis Miesbach",2
+177,9473,Landkreis Coburg,2
+178,9571,Landkreis Ansbach,3
+179,9182,Landkreis Miesbach,4
+180,9274,Landkreis Landshut,1
+181,9371,Landkreis Amberg-Sulzbach,1
+182,,"Landkreis Haßberge, Landkreis Schweinfurt",2
+183,9182,Landkreis Miesbach,4
+184,9187,Landkreis Rosenheim,4
+185,9187,Landkreis Rosenheim,4
+186,9780,Landkreis Oberallgäu,3
+187,9780,Landkreis Oberallgäu,3
+188,9677,Landkreis Main-Spessart,3
+189,9679,Landkreis Würzburg,4
+190,9187,Landkreis Rosenheim,4
+191,9375,Landkreis Regensburg,3
+192,9671,Landkreis Aschaffenburg,5
+193,9671,Landkreis Aschaffenburg,5
+194,9671,Landkreis Aschaffenburg,5
+195,9676,Landkreis Miltenberg,2
+196,9277,Landkreis Rottal-Inn,2
+197,,"Landkreis Regen, Landkreis Straubing-Bogen",1
+198,9276,Landkreis Regen,2
+199,9272,Landkreis Freyung-Grafenau,1
+200,9372,Landkreis Cham,1
+201,9376,Landkreis Schwandorf,5
+202,9374,Landkreis Neustadt a.d. Waldnaab,1
+203,9477,Landkreis Kulmbach,3
+204,9471,Landkreis Bamberg,2
+205,9472,Landkreis Bayreuth,2
+206,9472,Landkreis Bayreuth,2
+207,9576,Landkreis Roth,1
+208,,"Landkreis Eichstätt, Landkreis Roth",1
+209,,"Landkreis Aichach-Friedberg, Landkreis Neuburg-Schrobenhausen",1
+210,,"Landkreis Neuburg-Schrobenhausen, Landkreis Pfaffenhofen a.d. Ilm",1
+211,9179,Landkreis Fürstenfeldbruck,1
+212,,"Landkreis Eichstätt, Landkreis Kelheim",1
+213,9373,Landkreis Neumarkt i.d. OPf.,3
+214,9373,Landkreis Neumarkt i.d. OPf.,3
+215,9574,Landkreis Nürnberger Land,1
+216,,"Landkreis Nürnberger Land, Landkreis Amberg-Sulzbach",1
+217,9477,Landkreis Kulmbach,3
+218,9173,Landkreis Bad Tölz-Wolfratshausen,2
+219,9478,Landkreis Lichtenfels,3
+220,9478,Landkreis Lichtenfels,3
+221,9471,Landkreis Bamberg,2
+222,,"Landkreis Rhein-Neckar-Kreis, Landkreis Odenwaldkreis",2
+223,8336,Landkreis Lörrach,6
+224,,"Landkreis Waldshut, Landkreis Lörrach",2
+225,,"Landkreis Waldshut, Landkreis Lörrach",2
+226,8337,Landkreis Waldshut,8
+227,8436,Landkreis Ravensburg,5
+228,8135,Landkreis Heidenheim,3
+229,8436,Landkreis Ravensburg,5
+230,,"Landkreis Schwäbisch Hall, Landkreis Ostalbkreis",1
+231,8127,Landkreis Schwäbisch Hall,2
+232,8225,Landkreis Neckar-Odenwald-Kreis,4
+233,8436,Landkreis Ravensburg,5
+234,8315,Landkreis Breisgau-Hochschwarzwald,3
+235,,"Landkreis Breisgau-Hochschwarzwald, Landkreis Lörrach",1
+236,8315,Landkreis Breisgau-Hochschwarzwald,3
+237,,"Landkreis Freudenstadt, Landkreis Calw",1
+238,8336,Landkreis Lörrach,6
+239,8327,Landkreis Tuttlingen,2
+240,,"Landkreis Calw, Landkreis Böblingen",1
+241,8226,Landkreis Rhein-Neckar-Kreis,2
+242,8317,Landkreis Ortenaukreis,5
+243,8336,Landkreis Lörrach,6
+244,8216,Landkreis Rastatt,1
+245,8237,Landkreis Freudenstadt,2
+246,8337,Landkreis Waldshut,8
+247,8336,Landkreis Lörrach,6
+248,8317,Landkreis Ortenaukreis,5
+249,8417,Landkreis Zollernalbkreis,2
+250,8225,Landkreis Neckar-Odenwald-Kreis,4
+251,8425,Landkreis Alb-Donau-Kreis,5
+252,8426,Landkreis Biberach,1
+253,8425,Landkreis Alb-Donau-Kreis,5
+254,8126,Landkreis Hohenlohekreis,1
+255,,"Landkreis Rastatt, Stadtkreis Baden-Baden",1
+256,8237,Landkreis Freudenstadt,2
+257,,"Landkreis Ortenaukreis, Landkreis Freudenstadt",1
+258,8326,Landkreis Schwarzwald-Baar-Kreis,3
+259,8326,Landkreis Schwarzwald-Baar-Kreis,3
+260,8337,Landkreis Waldshut,8
+261,,"Landkreis Heilbronn, Landkreis Ludwigsburg",1
+262,8225,Landkreis Neckar-Odenwald-Kreis,4
+263,,"Landkreis Alb-Donau-Kreis, Landkreis Reutlingen",1
+264,8116,Landkreis Esslingen,2
+265,8119,Landkreis Rems-Murr-Kreis,2
+266,8225,Landkreis Neckar-Odenwald-Kreis,4
+267,8315,Landkreis Breisgau-Hochschwarzwald,3
+268,16072,Landkreis Sonneberg,2
+269,16073,Landkreis Saalfeld-Rudolstadt,6
+270,,"Landkreis Kyffhäuserkreis, Landkreis Nordhausen",2
+271,,"Landkreis Schmalkalden-Meiningen, Landkreis Wartburgkreis, Landkreis Gotha",1
+272,,"Landkreis Schmalkalden-Meiningen, Landkreis Gotha",1
+273,16066,Landkreis Schmalkalden-Meiningen,6
+274,16066,Landkreis Schmalkalden-Meiningen,6
+275,16073,Landkreis Saalfeld-Rudolstadt,6
+276,16062,Landkreis Nordhausen,1
+277,16073,Landkreis Saalfeld-Rudolstadt,6
+278,16075,Landkreis Saale-Orla-Kreis,4
+279,16074,Landkreis Saale-Holzland-Kreis,4
+280,,"Landkreis Wartburgkreis, Landkreis Unstrut-Hainich-Kreis",1
+281,16074,Landkreis Saale-Holzland-Kreis,4
+282,16070,Landkreis Ilm-Kreis,3
+283,16061,Landkreis Eichsfeld,2
+284,,"Landkreis Saalfeld-Rudolstadt, Landkreis Ilm-Kreis",2
+285,16065,Landkreis Kyffhäuserkreis,2
+286,16069,Landkreis Hildburghausen,4
+287,16069,Landkreis Hildburghausen,4
+288,,"Landkreis Kyffhäuserkreis, Landkreis Nordhausen",2
+289,1051,Kreis Dithmarschen,1
+290,15083,Landkreis Börde,2
+291,15085,Landkreis Harz,10
+292,,Landkreis Salzwedel,3
+293,15085,Landkreis Harz,10
+294,15089,Landkreis Salzlandkreis,1
+295,15084,Landkreis Burgenlandkreis,1
+296,15085,Landkreis Harz,10
+297,15085,Landkreis Harz,10
+298,15085,Landkreis Harz,10
+299,15085,Landkreis Harz,10
+300,15085,Landkreis Harz,10
+301,15086,Landkreis Jerichower Land,1
+302,14523,Landkreis Vogtlandkreis,5
+303,14523,Landkreis Vogtlandkreis,5
+304,14523,Landkreis Vogtlandkreis,5
+305,14524,Landkreis Zwickau,1
+306,14522,Landkreis Mittelsachsen,2
+307,14628,Landkreis Sächsische Schweiz-Osterzgebirge,8
+308,14521,Landkreis Erzgebirgskreis,10
+309,14521,Landkreis Erzgebirgskreis,10
+310,14628,Landkreis Sächsische Schweiz-Osterzgebirge,8
+311,14628,Landkreis Sächsische Schweiz-Osterzgebirge,8
+312,14628,Landkreis Sächsische Schweiz-Osterzgebirge,8
+313,14521,Landkreis Erzgebirgskreis,10
+314,,"Landkreis Mittelsachsen, Landkreis Leipzig",1
+315,14521,Landkreis Erzgebirgskreis,10
+316,14521,Landkreis Erzgebirgskreis,10
+317,10041,Landkreis Regionalverband Saarbrücken,1
+318,,"Landkreis Merzig-Wadern, Landkreis Trier-Saarburg",1
+319,,"Kreis Euskirchen, Landkreis Ahrweiler",2
+320,,"Landkreis Südliche Weinstraße, Kreisfreie Stadt Landau in der Pfalz",1
+321,7235,Landkreis Trier-Saarburg,4
+322,,"Landkreis Mayen-Koblenz, Landkreis Cochem-Zell",1
+323,7135,Landkreis Cochem-Zell,2
+324,7132,Landkreis Altenkirchen (Westerwald),2
+325,7340,Landkreis Südwestpfalz,6
+326,7335,Landkreis Kaiserslautern,2
+327,7340,Landkreis Südwestpfalz,6
+328,7135,Landkreis Cochem-Zell,2
+329,7235,Landkreis Trier-Saarburg,4
+330,7137,Landkreis Mayen-Koblenz,3
+331,,"Landkreis Mayen-Koblenz, Landkreis Rhein-Hunsrück-Kreis",1
+332,7232,Landkreis Eifelkreis Bitburg-Prüm,5
+333,7233,Landkreis Vulkaneifel,2
+334,7231,Landkreis Bernkastel-Wittlich,4
+335,7334,Landkreis Germersheim,1
+336,7232,Landkreis Eifelkreis Bitburg-Prüm,5
+337,7133,Landkreis Bad Kreuznach,1
+338,,"Landkreis Kaiserslautern, Kreisfreie Stadt Kaiserslautern",1
+339,7340,Landkreis Südwestpfalz,6
+340,7340,Landkreis Südwestpfalz,6
+341,,"Landkreis Vulkaneifel, Landkreis Eifelkreis Bitburg-Prüm",1
+342,7231,Landkreis Bernkastel-Wittlich,4
+343,7137,Landkreis Mayen-Koblenz,3
+344,,"Kreis Hochsauerlandkreis, Kreis Märkischer Kreis",1
+345,5958,Kreis Hochsauerlandkreis,8
+346,5970,Kreis Siegen-Wittgenstein,5
+347,5762,Kreis Höxter,3
+348,5762,Kreis Höxter,3
+349,5766,Kreis Lippe,4
+350,5958,Kreis Hochsauerlandkreis,8
+351,5958,Kreis Hochsauerlandkreis,8
+352,5382,Kreis Rhein-Sieg-Kreis,2
+353,5366,Kreis Euskirchen,4
+354,,"Kreis Euskirchen, Kreis Städteregion Aachen, Kreis Düren",1
+355,,"Kreis Euskirchen, Kreis Düren",1
+356,5154,Kreis Kleve,2
+357,5774,Kreis Paderborn,1
+358,5766,Kreis Lippe,4
+359,5382,Kreis Rhein-Sieg-Kreis,2
+360,5970,Kreis Siegen-Wittgenstein,5
+361,5766,Kreis Lippe,4
+362,5566,Kreis Steinfurt,1
+363,,"Landkreis Hameln-Pyrmont, Landkreis Schaumburg",2
+364,,"Landkreis Lüneburg, Landkreis Harburg",1
+365,3102,Kreisfreie Stadt Salzgitter,1
+366,,"Landkreis Goslar, Landkreis Wolfenbüttel",1
+367,3153,Landkreis Goslar,7
+368,,"Landkreis Göttingen, Landkreis Goslar",2
+369,3159,Landkreis Göttingen,6
+370,3159,Landkreis Göttingen,6
+371,3254,Landkreis Hildesheim,4
+372,3254,Landkreis Hildesheim,4
+373,3155,Landkreis Northeim,8
+374,3155,Landkreis Northeim,8
+375,3155,Landkreis Northeim,8
+376,3252,Landkreis Hameln-Pyrmont,3
+377,3159,Landkreis Göttingen,6
+378,13071,Landkreis Mecklenburgische Seenplatte,12
+379,13071,Landkreis Mecklenburgische Seenplatte,12
+380,13071,Landkreis Mecklenburgische Seenplatte,12
+381,13075,Landkreis Vorpommern-Greifswald,3
+382,13073,Landkreis Vorpommern-Rügen,4
+383,13073,Landkreis Vorpommern-Rügen,4
+384,13075,Landkreis Vorpommern-Greifswald,3
+385,13071,Landkreis Mecklenburgische Seenplatte,12
+386,13076,Landkreis Ludwigslust-Parchim,6
+387,13076,Landkreis Ludwigslust-Parchim,6
+388,13075,Landkreis Vorpommern-Greifswald,3
+389,,"Landkreis Lahn-Dill-Kreis, Landkreis Limburg-Weilburg",1
+390,6532,Landkreis Lahn-Dill-Kreis,6
+391,6532,Landkreis Lahn-Dill-Kreis,6
+392,6437,Landkreis Odenwaldkreis,5
+393,6633,Landkreis Kassel,8
+394,6634,Landkreis Schwalm-Eder-Kreis,3
+395,6632,Landkreis Hersfeld-Rotenburg,6
+396,6632,Landkreis Hersfeld-Rotenburg,6
+397,6435,Landkreis Main-Kinzig-Kreis,5
+398,6532,Landkreis Lahn-Dill-Kreis,6
+399,,"Landkreis Marburg-Biedenkopf, Landkreis Waldeck-Frankenberg",2
+400,6437,Landkreis Odenwaldkreis,5
+401,6437,Landkreis Odenwaldkreis,5
+402,6633,Landkreis Kassel,8
+403,6635,Landkreis Waldeck-Frankenberg,6
+404,6535,Landkreis Vogelsbergkreis,1
+405,6435,Landkreis Main-Kinzig-Kreis,5
+406,6631,Landkreis Fulda,2
+407,6435,Landkreis Main-Kinzig-Kreis,5
+408,6636,Landkreis Werra-Meißner-Kreis,4
+409,6534,Landkreis Marburg-Biedenkopf,2
+410,6439,Landkreis Rheingau-Taunus-Kreis,4
+411,6439,Landkreis Rheingau-Taunus-Kreis,4
+412,6533,Landkreis Limburg-Weilburg,1
+413,6532,Landkreis Lahn-Dill-Kreis,6
+414,6437,Landkreis Odenwaldkreis,5
+415,6634,Landkreis Schwalm-Eder-Kreis,3
+416,6631,Landkreis Fulda,2
+417,6532,Landkreis Lahn-Dill-Kreis,6
+418,6636,Landkreis Werra-Meißner-Kreis,4
+419,12071,Landkreis Spree-Neiße,2
+420,12069,Landkreis Potsdam-Mittelmark,3
+421,12063,Landkreis Havelland,1
+422,,"Landkreis Märkisch-Oderland, Landkreis Barnim",1
+423,12073,Landkreis Uckermark,4
+424,12070,Landkreis Prignitz,1
+425,12067,Landkreis Oder-Spree,2
+426,,"Landkreis Oder-Spree, Landkreis Märkisch-Oderland",1
+427,12064,Landkreis Märkisch-Oderland,4
+428,,"Landkreis Saale-Orla-Kreis, Landkreis Kronach",1
+429,,"Landkreis Miltenberg, Landkreis Odenwaldkreis",1
+430,,"Landkreis Haßberge, Landkreis Schweinfurt",2
+431,9275,Landkreis Passau,2
+432,9276,Landkreis Regen,2
+433,9277,Landkreis Rottal-Inn,2
+434,9189,Landkreis Traunstein,2
+435,9172,Landkreis Berchtesgadener Land,2
+436,9172,Landkreis Berchtesgadener Land,2
+437,9275,Landkreis Passau,2
+438,9377,Landkreis Tirschenreuth,1
+439,,"Landkreis Schwandorf, Landkreis Neustadt a.d. Waldnaab",1
+440,9376,Landkreis Schwandorf,5
+441,9376,Landkreis Schwandorf,5
+442,9279,Landkreis Dingolfing-Landau,1
+443,9189,Landkreis Traunstein,2
+444,9475,Landkreis Hof,1
+445,,"Landkreis Amberg-Sulzbach, Landkreis Schwandorf",1
+446,9376,Landkreis Schwandorf,5
+447,9376,Landkreis Schwandorf,5
+448,9375,Landkreis Regensburg,3
+449,9375,Landkreis Regensburg,3
+450,9187,Landkreis Rosenheim,4
+451,9273,Landkreis Kelheim,3
+452,,"Landkreis Regensburg, Landkreis Kelheim",1
+453,9273,Landkreis Kelheim,3
+454,9476,Landkreis Kronach,1
+455,9373,Landkreis Neumarkt i.d. OPf.,3
+456,9173,Landkreis Bad Tölz-Wolfratshausen,2
+457,,"Landkreis Bamberg, Landkreis Lichtenfels",1
+458,9477,Landkreis Kulmbach,3
+459,,"Landkreis Bayreuth, Landkreis Forchheim",2
+460,,"Landkreis Bayreuth, Landkreis Forchheim",2
+461,9474,Landkreis Forchheim,1
+462,9176,Landkreis Eichstätt,1
+463,9771,Landkreis Aichach-Friedberg,1
+464,9761,Kreisfreie Stadt Augsburg,1
+465,9473,Landkreis Coburg,2
+466,9674,Landkreis Haßberge,2
+467,,"Landkreis Ansbach, Landkreis Neustadt a.d. Aisch-Bad Windsheim",1
+468,,"Landkreis Haßberge, Landkreis Bamberg, Landkreis Schweinfurt",1
+469,9575,Landkreis Neustadt a.d. Aisch-Bad Windsheim,1
+470,,"Landkreis Unterallgäu, Landkreis Günzburg",1
+471,9679,Landkreis Würzburg,4
+472,9780,Landkreis Oberallgäu,3
+473,9679,Landkreis Würzburg,4
+474,9677,Landkreis Main-Spessart,3
+475,9677,Landkreis Main-Spessart,3
+476,9671,Landkreis Aschaffenburg,5
+477,9671,Landkreis Aschaffenburg,5
+478,9273,Landkreis Kelheim,3
+479,,"Landkreis Rhein-Neckar-Kreis, Landkreis Odenwaldkreis",2
+480,8316,Landkreis Emmendingen,2
+481,8337,Landkreis Waldshut,8
+482,8317,Landkreis Ortenaukreis,5
+483,8317,Landkreis Ortenaukreis,5
+484,8337,Landkreis Waldshut,8
+485,8337,Landkreis Waldshut,8
+486,8337,Landkreis Waldshut,8
+487,8317,Landkreis Ortenaukreis,5
+488,8326,Landkreis Schwarzwald-Baar-Kreis,3
+489,8327,Landkreis Tuttlingen,2
+490,8417,Landkreis Zollernalbkreis,2
+491,8325,Landkreis Rottweil,1
+492,8235,Landkreis Calw,1
+493,8226,Landkreis Rhein-Neckar-Kreis,2
+494,8311,Stadtkreis Freiburg im Breisgau,1
+495,8336,Landkreis Lörrach,6
+496,8337,Landkreis Waldshut,8
+497,8437,Landkreis Sigmaringen,2
+498,8437,Landkreis Sigmaringen,2
+499,,"Landkreis Reutlingen, Landkreis Tübingen",1
+500,,"Landkreis Böblingen, Landkreis Esslingen",1
+501,8119,Landkreis Rems-Murr-Kreis,2
+502,,"Landkreis Neckar-Odenwald-Kreis, Landkreis Heilbronn",1
+503,8116,Landkreis Esslingen,2
+504,8425,Landkreis Alb-Donau-Kreis,5
+505,8117,Landkreis Göppingen,2
+506,,"Landkreis Schwäbisch Hall, Landkreis Hohenlohekreis",1
+507,8128,Landkreis Main-Tauber-Kreis,5
+508,8128,Landkreis Main-Tauber-Kreis,5
+509,8336,Landkreis Lörrach,6
+510,8128,Landkreis Main-Tauber-Kreis,5
+511,8436,Landkreis Ravensburg,5
+512,8425,Landkreis Alb-Donau-Kreis,5
+513,8127,Landkreis Schwäbisch Hall,2
+514,8128,Landkreis Main-Tauber-Kreis,5
+515,8436,Landkreis Ravensburg,5
+516,,"Landkreis Biberach, Landkreis Alb-Donau-Kreis",1
+517,8425,Landkreis Alb-Donau-Kreis,5
+518,8135,Landkreis Heidenheim,3
+519,8136,Landkreis Ostalbkreis,2
+520,8135,Landkreis Heidenheim,3
+521,8136,Landkreis Ostalbkreis,2
+522,,"Landkreis Ostalbkreis, Landkreis Heidenheim",1
+523,8316,Landkreis Emmendingen,2
+524,8128,Landkreis Main-Tauber-Kreis,5
+525,12071,Landkreis Spree-Neiße,2
+526,9178,Landkreis Freising,1
+527,8117,Landkreis Göppingen,2
+528,5958,Kreis Hochsauerlandkreis,8
+529,9571,Landkreis Ansbach,3
+530,,"Landkreis Cham, Landkreis Straubing-Bogen",1
+531,9177,Landkreis Erding,1
+532,3151,Landkreis Gifhorn,1
+533,9571,Landkreis Ansbach,3
+534,5754,Kreis Gütersloh,1
+535,3357,Landkreis Rotenburg (Wümme),1
+536,14628,Landkreis Sächsische Schweiz-Osterzgebirge,8
+537,,"Landkreis Saalfeld-Rudolstadt, Landkreis Saale-Orla-Kreis, Landkreis Kronach",1
+538,6636,Landkreis Werra-Meißner-Kreis,4
+539,,"Landkreis Wartburgkreis, Landkreis Fulda",1
+540,13071,Landkreis Mecklenburgische Seenplatte,12
+541,16070,Landkreis Ilm-Kreis,3
+542,16074,Landkreis Saale-Holzland-Kreis,4
+543,16061,Landkreis Eichsfeld,2
+544,9678,Landkreis Schweinfurt,1
+545,9676,Landkreis Miltenberg,2
+546,12073,Landkreis Uckermark,4
+547,7141,Landkreis Rhein-Lahn-Kreis,1
+548,,"Landkreis Celle, Landkreis Heidekreis",1
+549,5366,Kreis Euskirchen,4
+550,3155,Landkreis Northeim,8
+551,14628,Landkreis Sächsische Schweiz-Osterzgebirge,8
+552,,"Kreis Euskirchen, Landkreis Ahrweiler",2
+553,13074,Landkreis Nordwestmecklenburg,2
+554,9679,Landkreis Würzburg,4
+555,5766,Kreis Lippe,4
+556,7232,Landkreis Eifelkreis Bitburg-Prüm,5
+557,,"Landkreis Werra-Meißner-Kreis, Landkreis Kassel, Landkreis Schwalm-Eder-Kreis",1
+558,,"Landkreis Rhön-Grabfeld, Landkreis Schweinfurt",1
+559,3255,Landkreis Holzminden,3
+560,16075,Landkreis Saale-Orla-Kreis,4
+561,,"Landkreis Vogelsbergkreis, Landkreis Wetteraukreis",1
+562,,"Landkreis Rhein-Neckar-Kreis, Landkreis Bergstraße",1
+563,1057,Kreis Plön,1
+564,3254,Landkreis Hildesheim,4
+565,,"Kreis Euskirchen, Landkreis Vulkaneifel",1
+566,,"Landkreis Rhein-Lahn-Kreis, Landkreis Westerwaldkreis",1
+567,16066,Landkreis Schmalkalden-Meiningen,6
+568,9674,Landkreis Haßberge,2
+569,16069,Landkreis Hildburghausen,4
+570,14521,Landkreis Erzgebirgskreis,10
+571,14729,Landkreis Leipzig,1
+572,13003,Kreisfreie Stadt Rostock,1
+573,12067,Landkreis Oder-Spree,2
+574,12072,Landkreis Teltow-Fläming,1
+575,1058,Kreis Rendsburg-Eckernförde,1
+576,12073,Landkreis Uckermark,4
+577,,"Landkreis Harz, Landkreis Mansfeld-Südharz",2
+578,15090,Landkreis Stendal,2
+579,13071,Landkreis Mecklenburgische Seenplatte,12
+580,15083,Landkreis Börde,2
+581,13071,Landkreis Mecklenburgische Seenplatte,12
+582,15091,Landkreis Wittenberg,3
+583,12073,Landkreis Uckermark,4
+584,13073,Landkreis Vorpommern-Rügen,4
+585,15085,Landkreis Harz,10
+586,,"Landkreis Sächsische Schweiz-Osterzgebirge, Landkreis Bautzen",1
+587,13072,Landkreis Rostock,1
+588,3153,Landkreis Goslar,7
+589,,Landkreis Salzwedel,3
+590,12064,Landkreis Märkisch-Oderland,4
+591,3456,Landkreis Grafschaft Bentheim,1
+592,14521,Landkreis Erzgebirgskreis,10
+593,12060,Landkreis Barnim,1
+594,,"Landkreis Emsland, Landkreis Cloppenburg",1
+595,14628,Landkreis Sächsische Schweiz-Osterzgebirge,8
+596,3155,Landkreis Northeim,8
+597,3251,Landkreis Diepholz,1
+598,,"Landkreis Helmstedt, Landkreis Wolfenbüttel",2
+599,7335,Landkreis Kaiserslautern,2
+600,10046,Landkreis St. Wendel,1
