@@ -14,23 +14,26 @@ Die Arbeitspakete laut Ausschreibung waren Datenexploration, ein Konzept, die Da
 
 ## Daten
 
-| Datei | Inhalt | Stand |
-|---|---|---|
-| `data/*.csv` | Breitband- und Mobilfunkverfügbarkeit pro Gebiet (Fläche, Privathaushalte, Schulen, Unternehmen, Gewerbegebiete, ...) | Festnetz 12.2023, Mobilfunk 01.2024 (laut Dateiköpfen) |
-| `data/bba_01_2024.xlsx` | Original-Download aus dem Breitbandatlas | 01.2024 laut Dateiname |
-| `data2für trainieren/*.csv` | dieselben Tabellen in einem neueren Stand | Festnetz 06.2024 (laut Kopf von Gewerbegebiete und Privathaushalte) |
-| `data/Miral_neu.csv` | `wieOft_Landkreis` pro Landkreis (siehe unten) | nicht dokumentiert |
-| `data/firas2.csv` | Anzahl Niederlassungen pro Landkreis, aus `regionaleWirtschaftsstruktur.csv` | nicht dokumentiert |
+| Datei | Inhalt | Quelle | Stand |
+|---|---|---|---|
+| `data/bba_01_2024.xlsx` | Breitband- und Mobilfunkverfügbarkeit nach Bund, Land und Kreis, ein Blatt pro Thema | Breitbandatlas (bestätigt, siehe unten) | Festnetz 12.2023, Mobilfunk 01.2024 |
+| `data/Fläche.csv`, `Schulen.csv`, `Privathaushalte.csv` usw. | einzelne Blätter aus `bba_01_2024.xlsx` als CSV | Breitbandatlas (bestätigt) | wie oben |
+| `data2für trainieren/*.csv` | dieselben Tabellen in einem neueren Stand | Breitbandatlas (vermutet, gleicher Aufbau) | Festnetz 06.2024 |
+| `data/Miral_neu.csv` | `wieOft_Landkreis` pro Landkreis (siehe unten) | Förderlandkarte (vermutet) | unbekannt |
+| `data/firas2.csv` | Anzahl Niederlassungen pro Landkreis, aus `regionaleWirtschaftsstruktur.csv` | nicht dokumentiert | unbekannt |
 
-Als Quellen nennt die Präsentation das [Gigabit-Grundbuch](https://gigabitgrundbuch.bund.de/GIGA/DE/Downloads_Suche/start.html) (Breitbandatlas-Downloads) und die [Förderlandkarte des BMDV](https://bmdv.bund.de/DE/Themen/Foerderlandkarte/foerderlandkarte.html). Für `Miral_neu.csv` und `regionaleWirtschaftsstruktur.csv` steht im Repo nicht genau, woher die Zahlen kommen.
+**Breitbandatlas:** Der [Breitbandatlas](https://www.bundesnetzagentur.de/GIGA/DE/Breitbandatlas/start.html) gehört zur Bundesnetzagentur. Auf der [Download-Seite im Gigabit-Grundbuch](https://gigabitgrundbuch.bund.de/GIGA/DE/Downloads_Suche/start.html) gibt es die Statistik als `bba_MM_JJJJ.xlsx`, aktuell zum Beispiel `bba_06_2026.xlsx`. Unsere Datei passt dazu. Sie beschreibt sich selbst als „Daten zur statistischen Auswertung der Breitbandverfügbarkeit in Deutschland aus dem Breitbandatlas“ und hat dieselben Blätter (Privathaushalte, Fläche, Schulen, Unternehmen, ...). Für Schulen, Privathaushalte und Fläche habe ich geprüft, dass die CSV-Dateien in `data/` genau diese Blätter sind.
+
+**Förderlandkarte:** Die [Förderlandkarte des damaligen BMDV](https://www.govdata.de/suche/daten/forderlandkarte-des-bmdv) zeigt Förderprojekte aus den Förderprogrammen des Ministeriums, Stand 31.12.2024 (Lizenz: Datenlizenz Deutschland Namensnennung 2.0). Man kann nach Landkreis filtern und die Auswahl als CSV oder Excel exportieren. Eine feste Datei zum Vergleichen gibt es dort nicht. Die Präsentation nennt die Förderlandkarte als Quelle.
 
 ### Was bedeutet `wieOft_Landkreis`?
 
 `wieOft_Landkreis` gibt an, wie oft ein Landkreis in einer Liste von Breitband-Förderverfahren vorkommt, also wie viele Förderverfahren es dort gab. Das ist die Zielgröße des Modells.
 
+- **Herkunft vermutet, nicht bestätigt:** Wahrscheinlich wurden die Zahlen aus einem Export der Förderlandkarte gezählt. Der Export selbst und die Filter (welche Programme, welcher Zeitraum) liegen nicht im Repo. Deshalb kann ich die Zahlen nicht nachrechnen.
 - `Miral_neu.csv` enthält 320 der 400 Landkreise, mit Werten von 1 bis 149.
-- Die übrigen 80 Landkreise stehen nicht in der Liste und bekommen den Wert 0, also kein Förderverfahren. Das ist eine Annahme: Sie stimmt nur, wenn die Liste vollständig ist.
-- Die Zahlen in `Miral_neu.csv` unterscheiden sich von der Datei `Förderungsverfahren_geplant_2024.xls` im Ordner `data_mashine_learning_project/`. Welche Liste genau dahintersteht, ist nicht dokumentiert.
+- **Ein fehlender Landkreis bedeutet nicht sicher 0 Förderverfahren.** Im Notebook bekommen die 80 fehlenden Landkreise trotzdem den Wert 0. Das ist eine Annahme, die nur stimmt, wenn die Liste vollständig ist.
+- Die Zahlen unterscheiden sich von der Datei `Förderungsverfahren_geplant_2024.xls` im Ordner `data_mashine_learning_project/`.
 
 ## Vorgehen
 
